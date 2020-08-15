@@ -23,15 +23,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cudanexus" alt="cudanexus" /> </p>
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudanexus&layout=compact&hide=html" alt="cudanexus" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cudanexus&show_icons=true" alt="cudanexus" /></p>
-
-<!--END_SECTION:activity-->
-
-</details>
